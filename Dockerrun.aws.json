@@ -24,7 +24,7 @@
     },
     {
       "name": "nginix",
-      "image": "unimononcloud/multi-nginix",
+      "image": "unimononcloud/multi-nginx",
       "hostname": "nginix",
       "essential": true,
       "portMappings": [
